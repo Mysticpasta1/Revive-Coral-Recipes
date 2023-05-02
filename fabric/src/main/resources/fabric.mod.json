@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "revivecoralrecipes",
+  "version": "${version}",
+  "name": "Revive Coral Recipes",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "GNU GPL 3.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": ">=1.19.2"
+  }
+}
