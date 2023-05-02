@@ -9,6 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:fire_coral_block"
+    "item": "minecraft:fire_coral_block",
+    "count": 1
   }
 }
